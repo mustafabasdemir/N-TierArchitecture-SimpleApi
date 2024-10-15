@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FatihCo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("N-TierArchitecture.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+586c42c19bb1170f6644f19648e58491217a477f")]
-[assembly: System.Reflection.AssemblyProductAttribute("FatihCo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FatihCo")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9692825c68fbc6011f0d6fb5311ee17a4a3aa8")]
+[assembly: System.Reflection.AssemblyProductAttribute("N-TierArchitecture.API")]
+[assembly: System.Reflection.AssemblyTitleAttribute("N-TierArchitecture.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

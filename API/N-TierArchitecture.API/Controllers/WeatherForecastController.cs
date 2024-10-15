@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace FatihCo.Controllers
+namespace N_TierArchitecture.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

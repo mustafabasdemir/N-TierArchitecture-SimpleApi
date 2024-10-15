@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Alq3uZkp0bDjW2XOYW02rbGapzCzJRBJX9IzmRn7A93xQ2DziSCqAwVr3eXkgHxZjVQhELNn5d4YR6M6d+qNA==",
+  "dgSpecHash": "zPijxdm4zCt/xTYhIG3lNlGWanu8TreYLeH3hgtTnRRjOcZAu2f5cV1NvqHGV1u60LZ4oWw1pHywzXZdt0C/2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\basde\\OneDrive\\Masaüstü\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\FatihCo\\FatihCo.csproj",
+  "projectFilePath": "C:\\Users\\basde\\OneDrive\\Masaüstü\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.API\\N-TierArchitecture.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\basde\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\basde\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\basde\\OneDrive\\Masaüstü\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\FatihCo\\FatihCo.csproj",
-      "projectName": "FatihCo",
-      "projectPath": "C:\\Users\\basde\\OneDrive\\Masaüstü\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\FatihCo\\FatihCo.csproj",
+      "projectUniqueName": "C:\\Users\\basde\\OneDrive\\Masaüstü\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.API\\N-TierArchitecture.API.csproj",
+      "projectName": "N-TierArchitecture.API",
+      "projectPath": "C:\\Users\\basde\\OneDrive\\Masaüstü\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.API\\N-TierArchitecture.API.csproj",
       "packagesPath": "C:\\Users\\basde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\basde\\OneDrive\\Masaüstü\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\FatihCo\\obj\\",
+      "outputPath": "C:\\Users\\basde\\OneDrive\\Masaüstü\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\basde\\AppData\\Roaming\\NuGet\\NuGet.Config",

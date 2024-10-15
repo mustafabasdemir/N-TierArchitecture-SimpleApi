@@ -1,4 +1,4 @@
-namespace FatihCo
+namespace N_TierArchitecture.API
 {
     public class WeatherForecast
     {
