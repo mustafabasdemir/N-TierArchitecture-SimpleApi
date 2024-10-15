@@ -1,0 +1,6 @@
+@FatihCo_HostAddress = http://localhost:5222
+
+GET {{FatihCo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

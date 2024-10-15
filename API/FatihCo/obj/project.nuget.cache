@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Alq3uZkp0bDjW2XOYW02rbGapzCzJRBJX9IzmRn7A93xQ2DziSCqAwVr3eXkgHxZjVQhELNn5d4YR6M6d+qNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basde\\OneDrive\\Masaüstü\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\FatihCo\\FatihCo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basde\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\basde\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\basde\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\basde\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\basde\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\basde\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
