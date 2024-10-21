@@ -1,12 +1,150 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90553A-DF7C-4B45-BD93-1519C2076E00}|..\\N-TierArchitecture.Core\\N-TierArchitecture.Core.csproj|c:\\users\\basde\\onedrive\\masa\u00FCst\u00FC\\n-tierarchitecture-simpleapi\\n-tierarchitecture-simpleapi\\api\\n-tierarchitecture.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90553A-DF7C-4B45-BD93-1519C2076E00}|..\\N-TierArchitecture.Core\\N-TierArchitecture.Core.csproj|c:\\users\\basde\\onedrive\\masa\u00FCst\u00FC\\n-tierarchitecture-simpleapi\\n-tierarchitecture-simpleapi\\api\\n-tierarchitecture.core\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90553A-DF7C-4B45-BD93-1519C2076E00}|..\\N-TierArchitecture.Core\\N-TierArchitecture.Core.csproj|c:\\users\\basde\\onedrive\\masa\u00FCst\u00FC\\n-tierarchitecture-simpleapi\\n-tierarchitecture-simpleapi\\api\\n-tierarchitecture.core\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90553A-DF7C-4B45-BD93-1519C2076E00}|..\\N-TierArchitecture.Core\\N-TierArchitecture.Core.csproj|c:\\users\\basde\\onedrive\\masa\u00FCst\u00FC\\n-tierarchitecture-simpleapi\\n-tierarchitecture-simpleapi\\api\\n-tierarchitecture.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90553A-DF7C-4B45-BD93-1519C2076E00}|..\\N-TierArchitecture.Core\\N-TierArchitecture.Core.csproj|c:\\users\\basde\\onedrive\\masa\u00FCst\u00FC\\n-tierarchitecture-simpleapi\\n-tierarchitecture-simpleapi\\api\\n-tierarchitecture.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90553A-DF7C-4B45-BD93-1519C2076E00}|..\\N-TierArchitecture.Core\\N-TierArchitecture.Core.csproj|c:\\users\\basde\\onedrive\\masa\u00FCst\u00FC\\n-tierarchitecture-simpleapi\\n-tierarchitecture-simpleapi\\api\\n-tierarchitecture.core\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F678F610-B102-4D6E-88FF-C66DF4894E4E}|N-TierArchitecture.API.csproj|c:\\users\\basde\\onedrive\\masa\u00FCst\u00FC\\n-tierarchitecture-simpleapi\\n-tierarchitecture-simpleapi\\api\\n-tierarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F678F610-B102-4D6E-88FF-C66DF4894E4E}|N-TierArchitecture.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F678F610-B102-4D6E-88FF-C66DF4894E4E}|N-TierArchitecture.API.csproj|c:\\users\\basde\\onedrive\\masa\u00FCst\u00FC\\n-tierarchitecture-simpleapi\\n-tierarchitecture-simpleapi\\api\\n-tierarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F678F610-B102-4D6E-88FF-C66DF4894E4E}|N-TierArchitecture.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "..\\N-TierArchitecture.Core\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\Account.cs",
+              "RelativeToolTip": "..\\N-TierArchitecture.Core\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:11:01.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\N-TierArchitecture.Core\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\Customer.cs",
+              "RelativeToolTip": "..\\N-TierArchitecture.Core\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:10:24.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\N-TierArchitecture.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\Product.cs",
+              "RelativeToolTip": "..\\N-TierArchitecture.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:08:49.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "..\\N-TierArchitecture.Core\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\Department.cs",
+              "RelativeToolTip": "..\\N-TierArchitecture.Core\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:08:07.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\N-TierArchitecture.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\User.cs",
+              "RelativeToolTip": "..\\N-TierArchitecture.Core\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:05:59.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\N-TierArchitecture.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "..\\N-TierArchitecture.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:01:48.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:52:34.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\basde\\OneDrive\\Masa\u00FCst\u00FC\\N-TierArchitecture-SimpleApi\\N-TierArchitecture-SimpleApi\\API\\N-TierArchitecture.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T16:04:32.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
